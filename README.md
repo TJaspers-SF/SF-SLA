@@ -1,0 +1,1 @@
+ant -buildfile ./build/ci-build.xml builderWithGitDiff
